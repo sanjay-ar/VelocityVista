@@ -65,15 +65,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 - Thanks to the Android community for providing valuable resources and libraries for Android app development.
 - Special thanks to Google for the powerful tools and APIs used in this project.
-
----
-
-Feel free to customize this README further to fit your project's specific details and requirements. If you have any questions or need further assistance, please let me know!
